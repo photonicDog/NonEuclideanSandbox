@@ -1,10 +1,15 @@
-# NonEuclidean
-A NonEuclidean rendering engine for Windows, written in C++ OpenGL.
-To see what this code is about, check out this video:
-https://youtu.be/kEB11PQ9Eo8
+# Sandbox
+Sandbox for working with OpenGL and C++ based off NonEuclidian engine prototype (found [here](https://github.com/HackerPoet/NonEuclidean)).
+
+## Current Goals
+* Add text display debugging
+* Add strafe movement from ATONE
+* Add local gravity
 
 ## Source Code Dependencies
-Add glew-2.1.0 to the main directory
+Add the following to the project root:
+* glew-2.1.0
+* freetype-2.6.1
 
 ## Controls
 * **Mouse** - Look around
